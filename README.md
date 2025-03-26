@@ -2,7 +2,9 @@
 ## Mis Datos:
 Maria camila lopez villa
 Tengo 18 años y cumplo el 9 de agosto
+
 `Correo personal:` mariac1923@outlook.com
+
 `Correo con el que trabajaré:` mariaLopez047@outlook.com
 
 ## Experiencia en desarrollo:
